@@ -1857,8 +1857,8 @@ h1, h2, h3, h4, h5,
     font-size: 20px; }
 
 .pricing .price {
-  width: 90px;
-  height: 90px;
+  width: 175px;
+  height: 175px;
   border-radius: 50%;
   display: block;
   margin-bottom: 30px;
@@ -1893,3 +1893,9 @@ h1, h2, h3, h4, h5,
 
 .bg-teal {
   background: #16c3b0; }
+
+/* ===================== Custom ===================== */
+
+html {
+  scroll-behavior: smooth;
+}
